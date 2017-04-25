@@ -1,0 +1,26 @@
+{
+  "name": "telegram",
+  "version": "1.0.0",
+  "description": "this is a chatroom app developed with node for demonstration purposes",
+  "main": "helloWorld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node helloWorld.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rhadmael/Telegram.git"
+  },
+  "keywords": [
+    "Telegram",
+    "chatroom",
+    "js",
+    "node.js"
+  ],
+  "author": "Rhadmael",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rhadmael/Telegram/issues"
+  },
+  "homepage": "https://github.com/Rhadmael/Telegram#readme"
+}
